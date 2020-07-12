@@ -1,4 +1,4 @@
 package com.codedifferently.stayready;
 
-public class MainTest {
+public class MainTest { 
 }
